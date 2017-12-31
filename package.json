@@ -1,0 +1,29 @@
+{
+  "name": "Garden",
+  "version": "0.0.0",
+  "description": "An Electron & Vue.js quick start boilerplate with vue-cli support",
+  "main": "meta.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Granipouss/Garden.git"
+  },
+  "keywords": [
+    "electron",
+    "vue",
+    "boilerplate",
+    "hot",
+    "reload",
+    "router",
+    "vuex",
+    "resource"
+  ],
+  "author": "Granipouss <granipouss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Granipouss/Garden/issues"
+  },
+  "homepage": "https://github.com/Granipouss/Garden#readme",
+  "devDependencies": {
+    "suppose": "^0.6.1"
+  }
+}
